@@ -1,0 +1,5 @@
+{
+  "name": "Group Coherence Activation Simulator",
+  "description": "An interactive dashboard to visualize and analyze group coherence simulation results for low-frequency (cardiac) and gamma (neural) systems, and to outline the next steps for model refinement.",
+  "requestFramePermissions": []
+}
